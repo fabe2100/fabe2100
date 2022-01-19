@@ -1,6 +1,6 @@
-## Hej! 
+## **Hej**! 
 
-Fauzia är mitt namn och går på en webbutveckling program på Mittuniversitetet.
+Fauzia är mitt namn och går på _webbutveckling_ programmet på **Mittuniversitetet**.
 Programmet pågår under 2 år och den innefattar följande kurser:
 
 Datateknik GR (A)
@@ -28,7 +28,7 @@ Industriell organisation och ekonomi GR (B)
 Informatik GR (A)
 - Projektledning
 
-
+För mer info om utbildningen: <https://www.miun.se/webbutveckling>
 <!--
 **fabe2100/fabe2100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
